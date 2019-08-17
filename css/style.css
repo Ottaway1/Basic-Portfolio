@@ -92,7 +92,8 @@ nav a:first-child {
 
 /*main*/
 .background{
-    background: blue;
+    background-color: #585c5c;
+background-image: url(http://www.transparenttextures.com/patterns/black-linen.png);
 }
 #main_container {
     padding-top: 130px;
