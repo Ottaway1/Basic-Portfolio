@@ -92,7 +92,7 @@ nav a:first-child {
 
 /*main*/
 .background{
-    background: ;
+    background: blue;
 }
 #main_container {
     padding-top: 130px;
@@ -229,6 +229,6 @@ input[type=submit] {
     border: 0 none;
     color: #fff;
     font-size: 18px;
-    padding; 10px 30px;
+    padding: 10px 30px;
     cursor: pointer;
 }
